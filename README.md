@@ -105,7 +105,6 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 cd ~/cleaning_bot/rover_ws_2/temp/cleaning_robot_bringup/scripts
 python3 camera.py
 
-ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ```
 
 ### Controls
